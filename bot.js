@@ -42,3 +42,9 @@ client.on('interactionCreate', async interaction => {
 
 // Login to Discord with your client's token
 client.login(token);
+
+/*TODO : 
+- Embed pour user|OK et server|BUG
+- creation vocal auto quand rejoin
+- bot de musique youtube
+*/
